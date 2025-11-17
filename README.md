@@ -1,8 +1,8 @@
-#[SPRINT 3][TASK 1]
+# [SPRINT 3][TASK 1]
 
 The code in these exercises corresponds to the solutions for the Sprint 3 exercises of the Java Backend course at the IT Academy. This repository is constantly updated and may contain parallel branches.
 
-##STATEMENTS
+## STATEMENTS
 
 **Singleton**
 
